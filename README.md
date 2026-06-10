@@ -1,7 +1,7 @@
 # AromaSys — Warehouse Intelligence Platform
 
-> **Enterprise-grade** warehouse management system for the fragrance & essential oil manufacturing industry. AromaSys unifies a real-time **Digital Twin**, **Gemini AI Production Copilot**, **Roboflow Computer Vision QC**, and a complete **4-role RBAC security layer** into one intelligent operations console — purpose-built for Sima Arome's production facility.
-
+> **Enterprise-grade** warehouse management system for the steel manufacturing industry. We unifies a real-time **Digital Twin**, **Gemini AI Production Copilot**, **Roboflow Computer Vision QC**, and a complete **4-role RBAC security layer** into one intelligent operations console
+> 
 [![Vercel](https://img.shields.io/badge/Frontend-Vercel-black?logo=vercel)](https://vercel.com)
 [![Render](https://img.shields.io/badge/Backend-Render-46E3B7?logo=render)](https://render.com)
 [![Neon](https://img.shields.io/badge/Database-Neon%20PostgreSQL-00E5CC?logo=postgresql)](https://neon.tech)
