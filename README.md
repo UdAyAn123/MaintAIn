@@ -1,4 +1,4 @@
-# AromaSys — Warehouse Intelligence Platform
+# MaintAIn — Warehouse Intelligence Platform
 
 > **Enterprise-grade** warehouse management system for the steel manufacturing industry. We unifies a real-time **Digital Twin**, **Gemini AI Production Copilot**, **Roboflow Computer Vision QC**, and a complete **4-role RBAC security layer** into one intelligent operations console
 > 
@@ -489,4 +489,3 @@ Enforced server-side in `backend/src/middleware/auth.js` and mirrored in the fro
 ## License
 
 This project is licensed under the **MIT License**.  
-Copyright © 2026 AromaSys — Sima Arome Logistics. All rights reserved.
